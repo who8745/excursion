@@ -21,3 +21,26 @@ header p{
 body p{
     text-align: center;
 }
+body h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+body h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+body a{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;  
+}
+footer h3{
+    color: gray;
+    text-align: right;
+}
